@@ -1,4 +1,4 @@
-# University-online-automation-system
+# University-Online-Automation-System
 -----------------------------------------
 
 
